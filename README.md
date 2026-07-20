@@ -7,7 +7,7 @@
 cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload --port 8000
-```
+``` 
 
 ### Frontend
 ```bash
@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-## Access
+## Accesss
 - Frontend: http://localhost:5173
 - Backend: http://localhost:8000
 - API Docs: http://localhost:8000/docs
